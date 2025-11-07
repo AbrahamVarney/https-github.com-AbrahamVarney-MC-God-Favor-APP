@@ -1,0 +1,5 @@
+{
+  "name": "God Favor Business Center Invoice",
+  "description": "An intuitive invoice application that allows you to create, manage, and save invoices. It features a dynamic product lookup to streamline the process of adding items to your invoices.",
+  "requestFramePermissions": []
+}
